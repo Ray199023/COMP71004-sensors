@@ -130,14 +130,11 @@ int main() {
             print_distance();
             inp_char = 0;
             break;
-        default:
+            default:
             break;
             
-
-
         }
         
-
         wait_us(500000);
     }
 }
